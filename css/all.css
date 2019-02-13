@@ -60,7 +60,7 @@ table {
 /*head*/
 
 .index{
-    background-image:url("img/index_banner.jpg");
+    background-image:url("../img/index_banner.jpg");
     white-space: nowrap;
     height: 506px;
     width: 1024px;
@@ -133,7 +133,7 @@ table {
 }
 
 .navbar h1 a{
-    background-image:url("img/header_logo.png");
+    background-image:url("../img/header_logo.png");
     width:170px;
     height:36px;
     display:block;
@@ -419,7 +419,7 @@ input[type="text"]{
 }
 
 .footer h1 a{
-    background-image:url("img/header_logo.png");
+    background-image:url("../img/header_logo.png");
     width:170px;
     height:36px;
     display:block;
@@ -433,7 +433,7 @@ input[type="text"]{
 /*head*/
 
 .class{
-    background-image:url("img/class_banner.jpg");
+    background-image:url("../img/class_banner.jpg");
     white-space: nowrap;
     height: 506px;
     width: 1024px;
@@ -613,7 +613,7 @@ input[type="text"]{
 /* head */
 
 .faq{
-    background-image:url("img/faq_banner.jpg");
+    background-image:url("../img/faq_banner.jpg");
     white-space: nowrap;
     height: 506px;
     width: 1024px;
